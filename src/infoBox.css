@@ -1,0 +1,8 @@
+.InfoBox {
+    margin: 0 auto;
+    width: fit-content; /* or any fixed width */
+} 
+.cardContainer{
+    display: flex;
+    justify-content: center;
+}
